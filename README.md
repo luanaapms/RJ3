@@ -3,7 +3,7 @@
 
 Nesta atividade você deve praticar a construção de objetos que precisam de atributos privados. Dividida em 3 partes: <br>
 ### Cliente
-O cpf de um cliente deve ser algo que não pode mudar, após sua criação. Portanto, o atributo deve ser privado. <br>
+O cpf de um cliente deve ser algo que não pode mudar após sua criação. Portanto, o atributo deve ser privado. <br>
 class Cliente{<br>
     #cpf<br>
     constructor(nome, cpf, endereco){<br>
@@ -56,13 +56,4 @@ O script deve ser testado! Para isso crie uma empresa e atribua a ela um endere�
 
 
 ### Objetivos, parte 3
-Por fim, seu script deve ser capaz de gerar uma descrição da empresa
-e de seus clientes, desta forma: <br>
-
-Razão Social: MERCADOLIVRECOM ATIVIDADES DE INTERNET LTDA<br>
-Nome Fantasia: Mercado Livre<br>
-----------------------------------------------------------
-Nome: Pietra<br>
-Estado: SP, Cidade: São José dos Campos, Rua: Rua das Flores, Número: 437<br>
-ddd: 12 .......... número: 998457613<br>
-ddd: 16 .......... número: 995467138<br>
+Por fim, seu script deve ser capaz de gerar uma descrição da empresa e de seus clientes.
